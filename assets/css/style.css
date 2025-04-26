@@ -13,3 +13,7 @@ html, body{
 body {
     font-family: roboto;
 }
+.correo {
+    background-color: #28A745;
+    color: white;
+}
